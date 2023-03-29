@@ -1,0 +1,4 @@
+cidr_blocks,protocol,from_port,to_port,description
+0.0.0.0/0,TCP,22,22,test
+0.0.0.0/0,TCP,1691,1691,
+0.0.0.0/0,UDP,1691,1691,
